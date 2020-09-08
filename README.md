@@ -5,7 +5,7 @@
 Add the dependency, as usual:
 ```toml
 [dependencies]
-ewasm_api = { git = "https://github.com/PDXbaap/ewasm-rust-api", tag = "0.9" }
+ewasm_api = { git = "https://github.com/chainrd/ewasm-rust-api", tag = "0.9" }
 ```
 
 In your project, include the prelude:
